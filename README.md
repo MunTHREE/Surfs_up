@@ -6,10 +6,13 @@ The goal of this analysis to scrape the data for the months of June and December
 
 ## Results
 
-![image1](https://github.com/MunTHREE/Surfs_up/blob/main/img1.png)
-![image2](https://github.com/MunTHREE/Surfs_up/blob/main/img2.png)
-![image3](https://github.com/MunTHREE/Surfs_up/blob/main/img3.png)
-![image4](https://github.com/MunTHREE/Surfs_up/blob/main/img4.png)
+![image1](https://github.com/MunTHREE/Surfs_up/blob/main/img1.png "Precipitaion Data by Date")
+
+![image2](https://github.com/MunTHREE/Surfs_up/blob/main/img2.png "Summary Statistics For the Precipitation Data")
+
+![image3](https://github.com/MunTHREE/Surfs_up/blob/main/img3.png "Most Active Stations")
+
+![image4](https://github.com/MunTHREE/Surfs_up/blob/main/img4.png "Histogram of the Temperature Observation Data for the Most Active Station")
 
 
 ## Summary

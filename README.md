@@ -6,6 +6,10 @@ The goal of this analysis to scrape the data for the months of June and December
 
 ## Results
 
+![image1](https://github.com/MunTHREE/Surfs_up/blob/main/img1.png)
+![image2](https://github.com/MunTHREE/Surfs_up/blob/main/img2.png)
+![image3](https://github.com/MunTHREE/Surfs_up/blob/main/img3.png)
+![image4](https://github.com/MunTHREE/Surfs_up/blob/main/img4.png)
 
 
 ## Summary

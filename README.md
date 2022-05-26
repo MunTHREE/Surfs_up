@@ -21,4 +21,4 @@ The goal of this analysis to scrape the data for the months of June and December
 
 ## Summary
 
-
+In Oahu, precipitation seems to be lowest in January. The most precipitation that the city experienced was in October.
